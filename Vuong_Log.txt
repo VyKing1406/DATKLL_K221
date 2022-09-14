@@ -1,7 +1,7 @@
 14/9/2022:
-	1) Mục tiêu: 
-		-Làm doc, sheet để cập nhật tiến độ cho cả nhóm.
-		-Tìm kiếm, tìm hiểu, xác định được đề tài của nhóm:
+	1. Mục tiêu: 
+		-Làm git để cập nhật tiến độ cho cả nhóm (1)
+		-Tìm kiếm, tìm hiểu, xác định được đề tài của nhóm (2):
 			+Khó khăn:
 				* Có khá nhiều đề tài, nhiều lĩnh vực để tìm hiểu.
 					-> Cùng nhau tìm hiểu thêm, đưa ra thảo luận và trao đổi với GVHD

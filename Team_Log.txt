@@ -1,0 +1,27 @@
+13/9/2022:
+    MỤC TIÊU: Thảo luận đề tài, yêu cầu làm việc với các thành viên;
+        -Yêu cầu đối với thành viên:
+            + Thời gian tối thiểu làm việc mỗi tuần: 14 tiếng/tuần;
+            + Thành viên push log lên git sau mỗi lần cập nhật
+            (gồm thời gian làm việc, những việc đã làm được,
+            những khó khăn cần giúp đỡ, những việc làm tuần tới);
+            + Mỗi 2 tuần sẽ cập nhật tiến độ và báo cáo giảng 
+            viên hướng dẫn;
+            + Ít việc cá nhân thôi, việc gấp cần thông báo sớm;
+        -Hình thức, yêu cầu log sau mỗi buổi làm việc:
+            + Mục tiêu;
+            + Đã làm được gì;
+            + Khó khăn gặp phải, cách giải quyết, kết quả đạt được;
+            + Dự kiến việc làm tiếp theo;
+            + Cập nhật log mỗi ngày lên git;
+            + Họp bàn nội bộ 2 ngày/tuần;
+        - Thảo luận đề tài:
+            + Giải pháp kỹ thuật: Giải pháp thiết kế mạch điện - điện tử và giải pháp có yếu tố lập trình;
+            + Một số đề tài:
+                * Robot dò đường và vẽ bản đồ (điều khiển bằng tay, điều khiển bằng app);
+                * Điều khiển robot vượt địa hình bằng tay;
+                * Module điều hướng giao tiếp nhiều thiết bị đồng thời;
+        - Nhiệm vụ tiếp theo:
+            + Tìm hiểu thêm đề tài, phân tích tính khả thi. 
+            + Deadline 00h00 ngày 15/09/2022
+
