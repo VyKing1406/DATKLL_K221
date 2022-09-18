@@ -5,4 +5,58 @@
 			+Khó khăn:
 				* Có khá nhiều đề tài, nhiều lĩnh vực để tìm hiểu.
 					-> Cùng nhau tìm hiểu thêm, đưa ra thảo luận và trao đổi với GVHD
+					-> Tìm hiểu thêm về đề tài xe điều khiển bằng cử chỉ tay và tự động quét map;
+	2. Kết quả: 
+				* Tìm được ý tưởng Autonomous Room Mapping Robot;
+	3. Nhiệm vụ:
+		- Tiếp tục tìm kiếm đề tài 15/9/2022 họp với anh Kha;
+15/9/2022:
+	1 Mục tiêu: 
+		- Họp với anh Kha để trình bày sơ bộ về đề tài, ý tưởng:
+			+ Khó khăn: 
+				* Chưa hoàn thiện proposal, cần kĩ càng hơn.	
+	2 Kết quả:
+		- Làm xong bản proposal cơ bản.
+	3. Nhiệm vụ:
+		- Tìm hiểu rõ hơn về sản phẩm: 
+			* Cần làm những phần lớn nào.
+			* Các yếu tố liên quan.
+			* Tìm tài liệu để hiểu thêm về đề tài.
+			* Họp với nhóm 17/9/2022.
+	4. Deadline:  17/9/2022.
+
+
+
+17/9/2022: 3h (họp 2h + 2h 15/9)
+	1. Mục tiêu: 
+		- Họp, hoàn thiện proposal.
+	2. Kết quả: 
+		- Họp xong, hoàn thiện proposal bản thô
+	3. Nhiệm vụ tiếp theo:
+		- Làm bản proposal chính thức
+		- Tìm hiểu về phần làm app điều khiển cho xe
+		- Hỗ trợ làm slide thuyết trình.
+		- Thuyết trình
+	4. Deadline: 
+		- proposal: 18/8/2022.
+		- Phần app: 23/9/2022.
+		- Làm slide: 23/9/2022.
+		- Thuyết trình: 25/9/2022.
+
+
+
+18/9/2022: 1.5h
+	1. Mục tiêu: 
+		- Làm xong proposal.
+	2. Kết quả: 
+		- Xong proposal hoàn chỉnh.
+	3. Nhiệm vụ tiếp theo:
+		- Tìm hiểu về phần làm app điều khiển cho xe
+		- Hỗ trợ làm slide thuyết trình.
+		- Thuyết trình
+	4. Deadline: 
+		- Phần app: 23/9/2022.
+		- Làm slide: 23/9/2022.
+		- Thuyết trình: 25/9/2022.
+
 		
